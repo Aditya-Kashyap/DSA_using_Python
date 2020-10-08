@@ -31,6 +31,9 @@ The following computer problems can be solved using Data Structures:
   - And Many More
 
 
+# Mapping of Different Algorithms:
+<img src="./DSA/Visual/map.png" >
+
 # Algorithm Implementation in Python
 
 List of Algorithms in Python contained in this repository
