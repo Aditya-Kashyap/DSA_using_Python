@@ -35,7 +35,7 @@ The following computer problems can be solved using Data Structures:
 
 List of Algorithms in Python contained in this repository
 
-  - [Addition Without Operator](#DSA/AdditionWithoutOperator/)
+  - [Addition Without Operator](#https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/AdditionWithoutOperator/)
   - [Arrays](#./DSA/Arrays)
   - [Automata](#./DSA/Automata)
   - [Backtracking](#./DSA/BackTrackingAlgorithms)
