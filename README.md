@@ -35,39 +35,42 @@ The following computer problems can be solved using Data Structures:
 
 List of Algorithms in Python contained in this repository
 
-  - [Arrays](#arrayagorithms)
-  - [Automata](#automataalgorithms)
-  - [Backtracking](#backtrackingalgorithms)
-  - [Bitwise](#bitwisealgorithms)
-  - [Breath First Search](#breathfirstsearchalgorithm)
-  - [Compression](#Compression Algorithm)
-  - [Deep Learning](#deeplearningalgorithms)
-  - [Distribution](#distributionalgorithm)
-  - [Depth First Search](#depthfirstsearchalgorithm)
-  - [Divide And Conquer](#divideandconquer)
-  - [Dynamic Programing](#dynamicprograming)
-  - [Eularian Path](#EularianPathAlgorithm)
-  - [Graphs](#graphsgorithms)
-  - [Heaps](#heapsalgorithm)
-  - [Linked List](#lisnedlistalgorithm)
-  - [Machine Learning Algorithms](#machinelearningalgorithms)
-  - [Map](#mapsalgothms)
-  - [Maths](#somemath)
-  - [Matrix](#matrixsalgorithms)
-  - [Path Finding Algorithms](#pathfindingalgorithms)
-  - [Permutation of Strings](#stringpermutations)
-  - [Queues](#queues)
-  - [Recursion Algorithms](#recursionalgorithms)
-  - [Searching Algorithms](#searchingalgorithms)
-  - [Sets](#sets)
-  - [Sieve Algorithms](#sievealgortihms)
-  - [Sorting Algorithms](#sortingalgorithms)
-  - [Stack](#stacks)
-  - [Strings](#strings)
-  - [Svg](#svg)
-  - [Tests](#Tests)
-  - [Trees](#trees)
-  - [UnionFind](#unionfind)
+  - [Addition Without Operator](#./DSA/AdditionWithoutOperator)
+  - [Arrays](#./DSA/Arrays)
+  - [Automata](#./DSA/Automata)
+  - [Backtracking](#./DSA/BackTrackingAlgorithms)
+  - [Bitwise](#./DSA/BitOperations)
+  - [Breath First Search](#./DSA/BreathFirstSearch)
+  - [Compression](#./DSA/Compression)
+  - [Deep Learning](#./DSA/DeepLearningAlgorithms)
+  - [Distribution](#./DSA/Distribution)
+  - [Depth First Search](#./DSA/DepthFirstSearch)
+  - [Divide And Conquer](#./DSA/DivideAndConquer)
+  - [Dynamic Programing](#./DSA/DynamicPrograming)
+  - [Eularian Path](#./DSA/EularianPathAlgorithms)
+  - [Graphs](#./DSA/Graph)
+  - [Heaps](#./DSA/Heaps)
+  - [Linked List](#./DSA/Linkedlist)
+  - [Machine Learning Algorithms](#./DSA/MachineLearningAlgorithms)
+  - [Map](#./DSA/Map)
+  - [Maths](#./DSA/Math)
+  - [Matrix](#./DSA/Matrix)
+  - [Path Finding Algorithms](#./DSA/PathFindingAlgorithms)
+  - [Permutation of Strings](#./DSA/Permutations_of_string)
+  - [Priority Queue DS](#./DSA/PriorityQueueDS)
+  - [Queues](#./DSA/Queues)
+  - [Recursion Algorithms](#./DSA/RecursionAlgorithms)
+  - [Searching Algorithms](#./DSA/SearchingAlgorithms)
+  - [Sets](#./DSA/Set)
+  - [Sieve Algorithms](#./DSA/Sieve Algorithms)
+  - [Sorting Algorithms](#./DSA/SortingAlgorithms)
+  - [Stack](#./DSA/Stack)
+  - [Strings](#./DSA/Strings)
+  - [Svg](#./DSA/Svg)
+  - [Tests](#./DSA/Tests)
+  - [Trees](#./DSA/Trees)
+  - [UnionFind](#./DSA/UnionFind)
+  - [Unix](#./DSA/Unix)
 
 
 ### Backtracking Algorithms:
@@ -118,10 +121,10 @@ Examples of implementation-Input :  str = 'ABC'  Output : ABC,ACB,BAC,BCA,CAB,CB
 The Spiral Matrix problem takes a 2-Dimensional array of N-rows and M-columns as an input, and prints the elements of this matrix in spiral order. The spiral begins at the top left corner of the input matrix, and prints the elements it encounters, while looping towards the center of this matrix, in a clockwise manner.
 
 
-## Some Useful Information:
 
+## Data Structures:
+-------------------
 
-Topics:
  * Queues
  * Stacks
  * Doubly Linked Lists
@@ -191,6 +194,7 @@ Topics:
 <img src="./DSA//Visual/6.png" >
 
 
+## Some Useful Information:
 
 ### Big O Notation
 
