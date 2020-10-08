@@ -63,7 +63,7 @@ List of Algorithms in Python contained in this repository
   - [Recursion Algorithms](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/RecursionAlgorithms)
   - [Searching Algorithms](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/SearchingAlgorithms)
   - [Sets](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/Set)
-  - [Sieve Algorithms](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/Sieve Algorithms)
+  - [Sieve Algorithms](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/SieveAlgorithms)
   - [Sorting Algorithms](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/SortingAlgorithms)
   - [Stack](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/Stack)
   - [Strings](https://github.com/Aditya-Kashyap/DSA_using_Python/tree/main/DSA/Strings)
